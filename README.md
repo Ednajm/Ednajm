@@ -1,8 +1,7 @@
 # 👋 Ciao, sono ELhoussine najim!
 
 Benvenuto sul mio profilo GitHub!  
-Sono studente di  ingegneria informatica, appassionato di programmazione, automazione e sicurezza informatica. Lavoro continuamente per migliorare le mie competenze e perseguire il mio obiettivo: diventare un **Cybersecurity Engineer** specializzato in **Security Automation**.
-
+Sono studente di  ingegneria informatica, appassionato di programmazione, automazione e sicurezza informatica. Lavoro continuamente per migliorare le mie competenze e perseguire il mio obiettivo
 ---
 
 ## 🚀 Chi sono
