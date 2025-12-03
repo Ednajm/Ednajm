@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Ednajm!
+# 👋 Ciao, sono ELhoussine najim!
 
 Benvenuto sul mio profilo GitHub!  
 Sono studente di  ingegneria informatica, appassionato di programmazione, automazione e sicurezza informatica. Lavoro continuamente per migliorare le mie competenze e perseguire il mio obiettivo: diventare un **Cybersecurity Engineer** specializzato in **Security Automation**.
@@ -45,7 +45,3 @@ Ecco alcuni dei miei progetti principali (puoi aggiungere i link ai repository):
 - Amo imparare nuove tecnologie e metterle subito in pratica  
 - Sono appassionato di automazione industriale, robotica e cybersecurity  
 - Credo nel miglioramento continuo e nel codice pulito  
-
----
-
-💡 *Aggiornerò questo profilo man mano che crescerò come sviluppatore e specialista in sicurezza informatica!*
