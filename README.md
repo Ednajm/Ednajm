@@ -14,9 +14,9 @@ Sono studente di  ingegneria informatica, appassionato di programmazione, automa
 
 ## 🧰 Competenze tecniche
 
-- **Linguaggi di programmazione:** Bash, C, Python, MATLAB  
+- **Linguaggi di programmazione:** Bash, C, Python, MATLAB,C++  
 - **Web & API:** Django, Flask API, HTML5, CSS, Bootstrap, JavaScript  
-- **Database & Networking:** SQL, MQTT  
+- **Database & Networking:** SQLITE,POSTGRES, MQTT  
 - **Automazione & Robotica:** RobotStudio, PLC, STM32, SolidWorks  
 - **Strumenti & Piattaforme:** GitHub, VS Code  
 - **Sicurezza & AI:** conoscenze base di cybersecurity e machine learning  
